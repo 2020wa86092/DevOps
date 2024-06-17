@@ -1,5 +1,5 @@
 public class DevOpsExmaple {
-  public static void main(string[] args) {
-    System.out.print("Welcome to DevOps");
+  public static void main(String[] args) {
+    System.out.println("Welcome to DevOps");
   }
 }
